@@ -21,3 +21,20 @@ The workflow is composed of two main stages:
 - `NMTF_subnetworks.py`: subnetwork generation and node embedding with Node2Vec.
 - `parallel_initialization.py`: parallel SVD-based initialization for NMTF.
 - `pecanpy_embedding.py`: embedding with PecanPy implementation of Node2Vec.
+
+## 📖 Reference
+
+If you use this code, please cite:
+
+@incollection{riccio2025nmtf,
+  author    = {Riccio-Rengifo, Camila and Cascianelli, Silvia and Ceddia, Gaia and Masseroli, Marco},
+  title     = {Inferring Breast Cancer Subtype Associations Using an Original Omics Integration Based on Non-negative Matrix Tri-Factorization},
+  booktitle = {Computational Intelligence Methods for Bioinformatics and Biostatistics},
+  editor    = {Vettoretti, Mario and Tavazzi, Emanuela and Longato, Enrico and Baruzzo, Giulio and Bellato, Michele},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {14513},
+  year      = {2025},
+  publisher = {Springer, Cham},
+  doi       = {10.1007/978-3-031-90714-2_19},
+  url       = {https://doi.org/10.1007/978-3-031-90714-2_19}
+}
