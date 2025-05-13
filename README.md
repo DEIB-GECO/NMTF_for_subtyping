@@ -26,6 +26,7 @@ The workflow is composed of two main stages:
 
 If you use this code, please cite:
 
+```
 @incollection{riccio2025nmtf,
   author    = {Riccio-Rengifo, Camila and Cascianelli, Silvia and Ceddia, Gaia and Masseroli, Marco},
   title     = {Inferring Breast Cancer Subtype Associations Using an Original Omics Integration Based on Non-negative Matrix Tri-Factorization},
@@ -38,3 +39,4 @@ If you use this code, please cite:
   doi       = {10.1007/978-3-031-90714-2_19},
   url       = {https://doi.org/10.1007/978-3-031-90714-2_19}
 }
+```
